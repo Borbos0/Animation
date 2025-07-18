@@ -10,4 +10,4 @@
 `npm install`
 
 Запустить приложение
-`npm run start`
+`npm run dev`
